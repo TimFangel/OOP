@@ -1,3 +1,4 @@
 # OOP
-OOP Exercises \n
-Hvad kigger du på?
+OOP Exercises
+
+Hej! 😄
