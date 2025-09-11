@@ -39,7 +39,7 @@ public class Catalog {
         String res = null;
         for (int i=0; i < this.elems.length; i++) {
             String currentElem = this.elems[i];
-            if (currentElem==e) {
+            if (currentElem != null && currentElem.equals(e)) {
                 res = currentElem;
             }
         }
